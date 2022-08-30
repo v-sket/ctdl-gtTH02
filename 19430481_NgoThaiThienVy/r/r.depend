@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1661832162 source:t:\19430481_ngothaithienvy\r\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
